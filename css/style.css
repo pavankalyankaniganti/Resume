@@ -1,0 +1,38 @@
+
+    div{
+        text-align: right;
+        margin-right: 30px;
+    }
+    h4{
+        color:yellow;
+        margin-left: 10px;
+        text-decoration: underline;
+    }
+    h1{
+        letter-spacing: 1px;
+        color: #ec0101;
+        padding: 5px;
+    }
+    body {
+    width: 100%;
+    background-color:black;
+    color: blanchedalmond;
+        margin: 0%;
+    }
+    hr{
+        border: none;
+    }
+
+    p{
+        margin-left: 20px;
+    }
+.color{
+    color:green;
+}
+pre{
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+    margin-left: 50px;
+}
